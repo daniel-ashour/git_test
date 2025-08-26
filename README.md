@@ -1,3 +1,3 @@
 # git_test
 "Hello, Odin!"
-"poopin' 'n peein'!"
+"Thor is the superior god."
